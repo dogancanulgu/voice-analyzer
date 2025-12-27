@@ -1,0 +1,6 @@
+.env
+voice_analyzer.db
+uploads/
+__pycache__/
+venv/
+.pytest_cache/
